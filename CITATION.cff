@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "behavioral-drift-iot: early warning of behavioral drift in edge-deployed deep learning for IoT"
+authors:
+  - family-names: Abdulhussein
+    given-names: Ansam A.
+    orcid: "https://orcid.org/0000-0002-5580-2444"
+  - family-names: Azzawi
+    given-names: Mustafa A.
+    orcid: "https://orcid.org/0000-0002-9360-4174"
+  - family-names: Nasrudin
+    given-names: Mohammad Faidzul
+    orcid: "https://orcid.org/0000-0002-2003-8853"
+repository-code: "https://github.com/azzawi91/behavioral-drift-iot"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Early Warning of Behavioral Drift in Edge-Deployed Deep Learning for IoT: A Lightweight Composite Drift Score Evaluated on Two Real Deployments"
+  authors:
+    - family-names: Abdulhussein
+      given-names: Ansam A.
+    - family-names: Azzawi
+      given-names: Mustafa A.
+    - family-names: Nasrudin
+      given-names: Mohammad Faidzul
+  journal: "Machine Learning (submitted)"
+  year: 2026

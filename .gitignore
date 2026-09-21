@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.DS_Store
+data/intel_lab_data.txt
+data/*.gz
