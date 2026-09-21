@@ -1,0 +1,4 @@
+Composite,k_items,alpha
+"DriftScore (JS, PredVar, CalibGap)",3,0.3665
+"PerfIndex (RMSE, MAE)",2,0.9840
+"AmbientIndex (T, RH, AH)",3,0.1807

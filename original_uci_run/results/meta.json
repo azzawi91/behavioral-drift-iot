@@ -1,0 +1,24 @@
+{
+  "dataset": "UCI Air Quality (De Vito et al. 2008)",
+  "target": "C6H6(GT)",
+  "features": [
+    "S1",
+    "S2",
+    "S3",
+    "S4",
+    "S5",
+    "T",
+    "RH",
+    "AH"
+  ],
+  "train_weeks": 4,
+  "n_hourly_rows_loaded": 9357,
+  "n_hourly_rows_clean": 8991,
+  "n_weeks_analyzed": 52,
+  "first_timestamp": "2004-03-10 18:00:00",
+  "last_timestamp": "2005-04-04 14:00:00",
+  "rmse_first_week": 1.059633082773779,
+  "rmse_last_week": 5.152120459870281,
+  "rmse_mean": 3.784819587322679,
+  "rmse_max": 6.747284818481495
+}
