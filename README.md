@@ -3,7 +3,7 @@
 Code and results for the paper
 
 > A. A. Abdulhussein, M. A. Azzawi, M. F. Nasrudin.
-> **Early Warning of Behavioral Drift in Edge-Deployed Deep Learning for IoT: A Lightweight Composite Drift Score Evaluated on Two Real Deployments.** Submitted to *Machine Learning* (Springer), 2026.
+> **Early Warning of Behavioral Drift in Edge-Deployed Deep Learning for IoT: A Lightweight Composite Drift Score Evaluated on Two Real Deployments.** Manuscript under review, 2026.
 
 A compact 8-16-8-1 multilayer perceptron (289 parameters) is trained on an initial reference window, frozen, and then monitored on two real IoT deployments with three lightweight signals: the Jensen-Shannon divergence of the inputs (JSD), the prediction-spread deviation (SPD) and the calibration gap (CAL). Their equal-weight z-score average is the Composite Drift Score (DS). The pipeline tests whether these signals track and anticipate the RMSE of the frozen model.
 
