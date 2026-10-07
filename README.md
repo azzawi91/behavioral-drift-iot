@@ -1,4 +1,4 @@
-# behavioral-drift-iot
+# Early Warning of Behavioral Drift in Edge-Deployed Deep Learning for IoT
 
 Code and results for the paper
 
