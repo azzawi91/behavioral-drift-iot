@@ -7,6 +7,8 @@ Code and results for the paper
 
 A compact 8-16-8-1 multilayer perceptron (289 parameters) is trained on an initial reference window, frozen, and then monitored on two real IoT deployments with three lightweight signals: the Jensen-Shannon divergence of the inputs (JSD), the prediction-spread deviation (SPD) and the calibration gap (CAL). Their equal-weight z-score average is the Composite Drift Score (DS). The pipeline tests whether these signals track and anticipate the RMSE of the frozen model.
 
+![Monitoring framework: ...](figures/fig1_framework.png)
+
 ## Reproduce everything
 
 ```bash
